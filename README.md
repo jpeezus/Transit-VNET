@@ -1,6 +1,6 @@
 
 
-![alt_text](Azure-Transit-VNET-0.0/documentation/images/pan-logo-badge-green-dark-kick-up.png "logo")
+![alt_text](Azure-Transit-VNET-0.1/documentation/images/pan-logo-badge-green-dark-kick-up.png "logo")
 
 # Azure Transit VNet with the VM-Series
 
@@ -28,7 +28,7 @@ This topology consists of
 
 [<img src="http://azuredeploy.net/deploybutton.png"/>](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FPaloAltoNetworks%2FAzure-Transit-VNet-0.1%2Fmaster%2Fazure-hub%2FazureDeployInfra.json?token=AZoiWUdo2qPkcTjMXpY8_KOkrP2aBqp_ks5ahJwcwA%3D%3D)
 
-![alt_text](documentation/images/Hub-Topology.PNG "topology")
+![alt_text](Azure-Transit-VNET-0.1/documentation/images/Hub-Topology.PNG "topology")
 
 # Spoke VNet
 Using the Spoke VNet template, you can deploy as many Spokes as needed to host internal only, or public facing workloads. Return traffic from inbound web access requests will traverse the same path it was received, and traffic originating from the Hub and Spoke networks will exit the hub VNet exclusively.
@@ -53,7 +53,7 @@ This topology consists of
 [<img src="http://azuredeploy.net/deploybutton.png"/>](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FPaloAltoNetworks%2FAzure-Transit-VNet-0.1%2Fmaster%2Fazure-spoke%2Fazuredeploy.json?token=AZoiWXZHIcxPcJG4iqbfyOUvHN1O8coUks5ahgGXwA%3D%3D)
 
 
-![alt_text](documentation/images/Spoke-Topology.PNG "topology")
+![alt_text](Azure-Transit-VNET-0.1/documentation/images/Spoke-Topology.PNG "topology")
 
 # Without VM-Series Firewall
 
