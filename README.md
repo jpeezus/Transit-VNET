@@ -1,6 +1,6 @@
 
 
-![alt_text](Transit-VNET/tree/master/Azure-Transit-VNET-0.0/documentation/images/pan-logo-badge-green-dark-kick-up.png "logo")
+![alt_text](Azure-Transit-VNET-0.0/documentation/images/pan-logo-badge-green-dark-kick-up.png "logo")
 
 # Azure Transit VNet with the VM-Series
 
