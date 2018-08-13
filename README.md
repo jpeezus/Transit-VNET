@@ -5,6 +5,9 @@
 # Azure Transit VNet with the VM-Series
 
 - Support for bootstrapping the VM-Series in both the Hub and Spoke 
+
+# With VMSS Support
+
 - Version 0.1 Now supports Virtual Machine Scale Sets in the Spoke
 - For more info on on Virtual Machine Scale Sets in Azure please see the VMSS Overview [Azure VMSS](https://docs.microsoft.com/en-us/azure/virtual-machine-scale-sets/overview).
 
