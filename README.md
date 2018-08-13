@@ -5,7 +5,7 @@
 # Azure Transit VNet with the VM-Series 
 Version History
 - 1.0 Support for bootstrapping in hub and spoke
-- 1.1 Support for Virtual Machine Scale Set in spoke template
+- 1.1 Support for auto scaling using Azure VMSS in spoke template
 
 For more info on on Virtual Machine Scale Sets in Azure please see the VMSS Overview [Azure VMSS](https://docs.microsoft.com/en-us/azure/virtual-machine-scale-sets/overview).  
 For information on how to bootstrap the VM-Series firewall running PAN-OS 8.1 and up in Azure see [Bootstrap Instructions](https://www.paloaltonetworks.com/documentation/81/virtualization/virtualization/bootstrap-the-vm-series-firewall/bootstrap-the-vm-series-firewall-in-azure#idd51f75b8-e579-44d6-a809-2fafcfe4b3b6)
